@@ -1,5 +1,9 @@
 # rb-particle-system - A particle system in ruby-processing
 
+See the ruby-processing wiki for more info:
+
+https://github.com/jashkenas/ruby-processing/wiki/
+
 
 ## License
 
